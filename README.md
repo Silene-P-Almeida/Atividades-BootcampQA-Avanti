@@ -16,7 +16,7 @@
 
 - 04 Atividade Prático - Relatório de Teste
 
-- A automação foi executada utilizando as ferramentas "[Waving test https://app.wavingtest.com/]"  e Cypress .
+- A automação foi executada utilizando as ferramentas "[Waving test](https://app.wavingtest.com/)"  e Cypress .
 
 - Apresemtação do trabalho.
 
