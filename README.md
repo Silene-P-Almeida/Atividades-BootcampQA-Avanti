@@ -20,5 +20,7 @@
 
 - Apresemtação do trabalho.
 
+- OBS: O WavingTest é uma ferramenta inovadora de automação de testes que simplifica a transição de testes manuais para automatizados. Com a abordagem "Plug and Play", dispensa configurações complexas. A funcionalidade "Low Code" permite criar testes funcionais sem codificação extensiva. Seu gerenciador integrado de cenários e projetos centraliza o controle, facilitando criação, edição e organização de casos de teste. Focado na facilidade de uso e produtividade, o WavingTest oferece uma solução abrangente para a automação de testes.
+
 
 ### Este Bootcamp foi fundamental para aprimorar meus conhecimentos teóricos, permitindo a aplicação prática dos mesmos, além de proporcionar uma experiência enriquecedora no trabalho em equipe. 
