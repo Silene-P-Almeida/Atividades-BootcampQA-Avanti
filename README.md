@@ -6,7 +6,7 @@
   
 - Fomos divididos em equipes para a escolha de um sistema para realizarmos as atividades práticas de testes.
 
-- Minha equipe, composta inicialmente por 4 membros, escolheu o “ [in markdown](https://seubarriga.wcaquino.me/login)” https://seubarriga.wcaquino.me/login, uma aplicação web que facilita o gerenciamento financeiro. 
+- Minha equipe, composta inicialmente por 4 membros, escolheu o “ [Seu Barriga](https://seubarriga.wcaquino.me/login)” https://seubarriga.wcaquino.me/login, uma aplicação web que facilita o gerenciamento financeiro. 
 
 - 01 Atividade Prático - Especificação de Teste
 
