@@ -8,13 +8,13 @@
 
 - Minha equipe, composta inicialmente por 4 membros, escolheu o “Seu Barriga” https://seubarriga.wcaquino.me/login, uma aplicação web que facilita o gerenciamento financeiro. 
 
-- Trabalho Prático - Especificação de Teste
+- 01 Atividade Prático - Especificação de Teste
 
-- Trabalho Prático - Plano de Teste Arquivo
+- 02 Atividade Prático - Plano de Teste Arquivo
 
-- Trabalho Prático - Relatório de Bugs
+- 03 Atividade Prático - Relatório de Bugs
 
-- Trabalho Prático - Relatório de Teste
+- 04 Atividade Prático - Relatório de Teste
 
 - A automação foi executada utilizando as ferramentas "Waving test" https://app.wavingtest.com/ e Cypress .
 
