@@ -1,6 +1,6 @@
 # Atividades-BootcampQA-Avanti
 
-# Este repositório foi criado com o objetivo de compartilhar as atividades do Bootcamp Quality Assurance, um programa promovido pelo Instituto Atlântico Avanti.
+## Este repositório foi criado com o objetivo de compartilhar as atividades do Bootcamp Quality Assurance, um programa promovido pelo Instituto Atlântico Avanti.
 
 
 Fizemos uma atividade individual sobre Técnicas de Testee as demais atividades foram realizadas em equipe.
